@@ -60,13 +60,13 @@ To analyze shipment and delivery performance data to identify **factors leading 
 ## 📌 Key Visuals
 
 ### 🚚 Delivery Status Count
-<img src="https://github.com/SulthanaSufiya/FedEx-EDA-Project/blob/main/images/delivery_status_count.png" width="600"/>
+https://colab.research.google.com/drive/1kGh1chQv3N6xo1PGYYM3zxxT-MTe3XEQ#scrollTo=0Mp7JHK2xOhP
 
 ### 🌍 Delivery Status by Country
-<img src="https://github.com/SulthanaSufiya/FedEx-EDA-Project/blob/main/images/delivery_by_country.png" width="600"/>
+https://colab.research.google.com/drive/1kGh1chQv3N6xo1PGYYM3zxxT-MTe3XEQ#scrollTo=zKqFOz_h2ckK&line=1&uniqifier=1
 
 ### 📦 Shipment Mode vs Delivery Performance
-<img src="https://github.com/SulthanaSufiya/FedEx-EDA-Project/blob/main/images/shipment_mode_status.png" width="600"/>
+https://colab.research.google.com/drive/1kGh1chQv3N6xo1PGYYM3zxxT-MTe3XEQ#scrollTo=lbn35sK0zJUf&line=1&uniqifier=1
 
 
 
