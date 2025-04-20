@@ -68,7 +68,7 @@ To analyze shipment and delivery performance data to identify **factors leading 
 ### 📦 Shipment Mode vs Delivery Performance
 <img src="https://github.com/SulthanaSufiya/FedEx-EDA-Project/blob/main/images/shipment_mode_status.png" width="600"/>
 
-> 💡 _Make sure to upload your generated images in a folder named `/images/` inside the repo._
+
 
 ---
 
